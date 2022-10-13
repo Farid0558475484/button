@@ -1,0 +1,10 @@
+.btn{
+    height: 30px;
+    width: 100px;
+    background-color:  yellow;
+}
+.btn:hover{
+    height: 30px;
+    width: 100px;
+    background-color:  red;
+}
